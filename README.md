@@ -7,5 +7,5 @@ the price of each rocket launch by Space Y, using proxy data
 from Space X. 
 A prediction model will be created through 
 machine learning, together with publicly available 
-information to ascertain whether Space X will reuse the 
+information used to ascertain whether Space X will reuse the 
 first stage of a launch. 
